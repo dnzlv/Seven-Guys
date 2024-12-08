@@ -13,7 +13,6 @@ public class five1Morning {
     private int madness; // Variable to track the madness stat
     private final Text gameStatus;
     private final Text statsText;       // Text to display the stats
-
     public five1Morning(Stage primaryStage) {
         // Initial game status text
         gameStatus = new Text("You are tired of these loud noises; still unsure if it’s hallucinations or reality, you just want to turn the power back on.\n" +
